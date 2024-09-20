@@ -1,7 +1,7 @@
 <h1>Mars Animated Landing Page</h1>
 A stunning and interactive Mars Animated Landing Page built with HTML, CSS, JavaScript, and Bootstrap 5. This page offers a visually captivating experience with animations and space-themed elements, making it an engaging way to explore Mars and related content.
 
-Features
+<h1>Features</h1>
 Space-themed Design: A visually appealing and modern design inspired by Mars and space exploration.
 Smooth Animations: The landing page incorporates CSS and JavaScript animations to give a dynamic feel to the content, such as animated planet rotations, hovering spaceships, or moving stars.
 Responsive Layout: Fully responsive design, adaptable to all screen sizes from desktop to mobile.
